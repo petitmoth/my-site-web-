@@ -1,7 +1,17 @@
-<html style="background-color:#A2A2A2">
+<html>
       <main>
             <h1 style="text-align:center;background-color:black;color:white"> welcome to my site web </h1>
-            <img src="https://cdn.pixabay.com/photo/2022/04/30/02/12/roblox-7164709_640.jpg";style="text-align:center">
+      <table>
+            <tr>
+                  <td> 
+                        <a href="roblox.com"> if you want to play this game </a>
+                  </td>
+                   <td> 
+                        <a href="https://www.roblox.com/fr/users/4920510070/profile"> account roblox </a>
+                  </td>
+            </tr>
+      </table>
+            <img src="https://cdn.pixabay.com/photo/2022/04/30/02/12/roblox-7164709_640.jpg">
       </main>
       <body>
             <h1 style="text-align:center;background-color:black;color:#A2A2A2"> what i do in my project </h1>
